@@ -9,7 +9,7 @@ import os
 
 window = Tk()
 
-bkimage = PhotoImage(file="image.png")
+bkimage = PhotoImage(file="./images/image.png")
 labelbg = Label(window, image = bkimage)
 labelbg.place(x = 0, y = 0, relwidth=1, relheight=1)
 
@@ -93,11 +93,11 @@ def play_sound() :
     
 
 
-icon_photo = PhotoImage(file="icon_image.png")
+icon_photo = PhotoImage(file="./images/icon_image.png")
 window.iconphoto(False, icon_photo)
 
 
-arrow_photo= PhotoImage(file="double-arrow.png")
+arrow_photo= PhotoImage(file="./images/double-arrow.png")
 
 
 language = googletrans.LANGUAGES 
