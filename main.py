@@ -97,7 +97,7 @@ icon_photo = PhotoImage(file="icon_image.png")
 window.iconphoto(False, icon_photo)
 
 
-arrow_photo= PhotoImage(file="double-arrow (1).png")
+arrow_photo= PhotoImage(file="double-arrow.png")
 
 
 language = googletrans.LANGUAGES 
