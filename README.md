@@ -11,11 +11,18 @@ ADVANCED FEATURES:
 
 HOW TO USE :
 - just clone the project in your local system and run the main file using
-  > python main.py
+  ```
+  python main.py
+  ```
   or
-  > python3 main.py
-
+  ```
+  python3 main.py
+  ```
 REQUIREMENTS :
 + download gTTS and langdetect using
-    > pip install gTTS
-    > pip install langdetect
+```
+  pip install gTTS
+```
+```
+  pip install langdetect
+```
