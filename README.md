@@ -2,7 +2,7 @@
 This is a simple clone of the GOOGLE TRANSLATE application.
 
 BASIC FEATURES:
--Translates from any language to any other language.
++Translates from any language to any other language.
 
 ADVANCED FEATURES:
 - Lets you upload a file and translates the entire file and create a new file with translated text in the same directory.
