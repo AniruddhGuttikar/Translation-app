@@ -1,5 +1,6 @@
 # Translation-app
 This is a simple clone of the GOOGLE TRANSLATE application.
+![image](https://github.com/AniruddhGuttikar/Translation-app/assets/110599253/538cbd16-1af9-4966-a820-71450ab0dead)
 
 BASIC FEATURES:
 + Translates from any language to any other language.
